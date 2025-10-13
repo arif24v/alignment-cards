@@ -8,7 +8,7 @@ export const categories = [
   }
 ];
  export const cards = [
-  {
+   {
     "category": "AP",
     "name": "Transparency and Explainability",
     "definition": "Make decisions and processes visible and understandable for users.",
@@ -96,6 +96,51 @@ export const categories = [
       "organizational": "Releasing a feature that may cause users to lose access to their accounts.",
       "professional": "Approving a design knowing that it will fail because the deadline is tomorrow.",
       "machine": "A navigation AI paths through sidewalks to reach its destination in the fastest time."
+    }
+  },
+  {
+    "category": "AB",
+    "name": "Impact over Output",
+    "definition": "Hoped for: Proficient teaching. Rewarded: High publication count. Alignment Failure: Overemphasis on visible metrics. Teaching quality is harder to measure objectively compared to publications. Reversed: Reward long-term impact and originality. This can include metrics such as student outcomes or impact factors of journals.",
+    "human": "Students take time to understand material and collaborate interdisciplinarily.",
+    "organizational": "Universities prioritize social impact of the area and country. ",
+    "professional": "Reviewers push novel, reproducible research to journal publication status.",
+    "machine": "AI models prioritize rigor of ideas over length of ideas.",
+    "failureModes": {
+      "human": "Students optimize their resumes instead of creating valuable projects.",
+      "organizational": "Universities inflate rankings by valuing publication quantity.",
+      "professional": "Reviewers favor 'safe' research that sounds flashy in headlines.",
+      "machine": "AI models optimize for token count usage to appear highly used."
+    }
+  },
+  {
+    "category": "AB",
+    "name": "Cs Get Degrees",
+    "definition": "Hoped for: Curiosity and deep understanding. Rewarded: High test scores. Alignment Failure: Fascination with objective criterion: Systems correlate high test grades with understanding of material when its not necessarily true; understanding is hard to objectively measure compared to scores. Reversed: Increase emphasis on novel applications of knowledge. Examples include real-life scenarios and projects.",
+    "human": "Stuednts receive constructure feedback on assignments.",
+    "organizational": "Adopting initiatives that encourage systematic change within education modules.",
+    "professional": "Educators design project-based curriculums based on real-world experience.",
+    "machine": "AI models walk users through solutions.",
+    "failureModes": {
+      "human": "Students cram and memorize concepts for exams over true understanding of material.",
+      "organizational": "Institutions push out elearning modules that can be completed within minutes with prior knowledge.",
+      "professional": "Teachers 'teach to the test'",
+      "machine": "AI models provide answers without explanation."
+    }
+  },
+  {
+    "category": "AB",
+    "name": "Appeal to People, Not Polls",
+    "definition": "Hoped for: Operative Goals. Rewarded: Official Goals. Alignment Failure: Emphasis on morality than efficiency: broad objectives with little impact receive more support than narrow objectives with meaningful change. Reversed: Mandate disclosure of operative goals. Examples include pressing politicians for operative goals and their justification for it through the press.",
+    "human": "Citizens support political literacy over sesationalist news cycles.",
+    "organizational": "News media organizations ask difficult questions to politicians instead of softballs.",
+    "professional": "Politicians become willing to have difficult conversations with elecorate.",
+    "machine": "AI models support the long-term improvement of policy instead of immediate approval ratings.",
+    "failureModes": {
+      "human": "Voters reward charisma and catchy slogans with unfeasible campaign promises.",
+      "organizational": "Government agencies chase cosmetic projects to please electorate.",
+      "professional": "Policy advisors tailor campaigns to headlines rather than for the prosperity of the country.",
+      "machine": "AI models tell voters and officials what they 'want to hear' versus what is best for them."
     }
   },
    
