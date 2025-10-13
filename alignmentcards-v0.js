@@ -99,7 +99,7 @@ export const categories = [
     }
   },
   {
-    "category": "AB",
+    "category": "ab",
     "name": "Impact over Output",
     "definition": "Hoped for: Proficient teaching. Rewarded: High publication count. Alignment Failure: Overemphasis on visible metrics. Teaching quality is harder to measure objectively compared to publications. Reversed: Reward long-term impact and originality. This can include metrics such as student outcomes or impact factors of journals.",
     "human": "Students take time to understand material and collaborate interdisciplinarily.",
@@ -114,7 +114,7 @@ export const categories = [
     }
   },
   {
-    "category": "AB",
+    "category": "ab",
     "name": "Cs Get Degrees",
     "definition": "Hoped for: Curiosity and deep understanding. Rewarded: High test scores. Alignment Failure: Fascination with objective criterion: Systems correlate high test grades with understanding of material when its not necessarily true; understanding is hard to objectively measure compared to scores. Reversed: Increase emphasis on novel applications of knowledge. Examples include real-life scenarios and projects.",
     "human": "Stuednts receive constructure feedback on assignments.",
@@ -129,7 +129,7 @@ export const categories = [
     }
   },
   {
-    "category": "AB",
+    "category": "ab",
     "name": "Appeal to People, Not Polls",
     "definition": "Hoped for: Operative Goals. Rewarded: Official Goals. Alignment Failure: Emphasis on morality than efficiency: broad objectives with little impact receive more support than narrow objectives with meaningful change. Reversed: Mandate disclosure of operative goals. Examples include pressing politicians for operative goals and their justification for it through the press.",
     "human": "Citizens support political literacy over sesationalist news cycles.",
