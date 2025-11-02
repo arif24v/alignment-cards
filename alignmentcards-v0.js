@@ -180,7 +180,7 @@ export const categories = [
     "organizational": "In an organization, there can be pressure to report favorable results to the company which can later be used to show investors a good performance chart. However, when employees make these 'innocent' adjustments to data, the change propogated all the way to the top of the company and may be used to inform very important decisions.",
     "experts": "Experts have the authority to affect many lives as their voices are magnified in society. It is important for an expert to be transparent with the public rather than act like they have every answer. ",
     "machine": "Machines have difficulty admitting uncertainty because it seldom happens in their training data. Instead of reporting information it knows is wrong, it is better for it to defer to humans."
-    },
+    }
   },
   {
   "category": "AT",
@@ -205,7 +205,7 @@ export const categories = [
     "organizational": "Organizations have an incentive to hold onto people who perform their role at a very high level while sticking to its scope. Not questioning management and faithfully carrying out duties is desirable.",
     "experts": "Experts are individuals who are licensed to reflect a body of knowledge onto others. It is important they know where their knowledge ends so that we can be confident about what they are saying.",
     "machine": "Machines are often really specialized in their tasks. As they are not capable of true learning, straying outside of their domain can have extreme negative consequences."
-    },
+    }
   },
 {
   "category": "AT",
@@ -230,7 +230,7 @@ export const categories = [
   "organizational": "Organizations need to maintain a certain level of quality to their work so that they gain brand loyalty with their consistency and reliability of products.",
   "experts": "Experts rely on having public trust which they gain off of being reliable and consistent. When this trust is lost, the expert's career can suffer.",
   "machine": "Machines are generally trusted to be correct. So when reliability or consistency is sacrificed, individuals don't realize the mismatch and operate based on the incorrect information."
-  },
+  }
 },
 {
   "category": "AT",
@@ -255,7 +255,7 @@ export const categories = [
   "organizational": "",
   "experts": "",
   "machine": ""
-  },
+  }
 },
 {
   "category": "AT",
@@ -280,7 +280,7 @@ export const categories = [
   "organizational": "",
   "experts": "",
   "machine": ""
-  },
+  }
 },
 {
   "category": "AT",
@@ -305,8 +305,6 @@ export const categories = [
   "organizational": "",
   "experts": "",
   "machine": ""
-  },
+  }
 },
-   
-   
-]
+];
