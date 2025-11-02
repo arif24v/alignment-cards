@@ -157,6 +157,150 @@ export const categories = [
       "machine": "AI models tell voters and officials what they 'want to hear' versus what is best for them."
     }
   },
+  {
+  "category": "AT",
+  "name": "Epistemic Humility",
+  "definition": "Knowing the limits of one's knowledge",
+  "people": "When people admit to uncertainty and defer to others when faced with making decisions with an incomplete understanding.",
+  "peopleref": "",
+  "organizational": "Deferring to leadership and reporting uncertainty rather than acting the opposite.",
+  "organizationalref": "",
+  "professionals": "In publications or press talks, acknowledging the limitations of designs instead of hiding them.",
+  "professionalref": "",
+  "machine": "Admitting to not having the answer when asked a difficult question and deferring to humans when uncertain.",
+  "machineref": "",
+  "failureModes": {
+    "human": "Overconfidence and confirmation bias, a wrong undertstanding is used to inform decisions",
+    "organizational": "The misconceptions or incorrect information is passed up the ladder and is used to make big decisions",
+    "experts": "People are hurt because something that was once a certainty is maybe not true (e.g. the claim that vaccines cause autism)",
+    "machine": "Hallucination; people are fed wrong information because models are trained to always give answers."
+  },
+     "expand": {
+    "human": "The bounds are an individual human's knowledge is very limited, and recognizing that one might not know something can be a good first step in making an informed decision on personal matters.",
+    "organizational": "In an organization, there can be pressure to report favorable results to the company which can later be used to show investors a good performance chart. However, when employees make these 'innocent' adjustments to data, the change propogated all the way to the top of the company and may be used to inform very important decisions.",
+    "experts": "Experts have the authority to affect many lives as their voices are magnified in society. It is important for an expert to be transparent with the public rather than act like they have every answer. ",
+    "machine": "Machines have difficulty admitting uncertainty because it seldom happens in their training data. Instead of reporting information it knows is wrong, it is better for it to defer to humans."
+  },
+  {
+  "category": "AT",
+  "name": "Role fidelity",
+  "definition": "Adhering to the scope of one's role, performing duties faithfully and staying within bounds.",
+  "people": "Individuals adhere to their responsibilities and avoid getting 'in over their heads'",
+  "peopleref": "",
+  "organizational": "A workers performs the tasks in their job descriptions as assigned.",
+  "organizationalref": "",
+  "professionals": "Experts practice in their licensed area without trying to extrapolate their knowledge to other subjects in which they do not hold expertise.",
+  "professionalref": "",
+  "machine": "Machines perform the task that is given without trying to do excess that may not be required",
+  "machineref": "",
+  "failureModes": {
+    "human": "When people misrepresent themselves to others and are stuck in uncomfortable situations.",
+    "organizational": "When a worker lies about their capabilities and cannot perform the functions of their job.",
+    "experts": "When unlicensed healthcare workers give medical advice when it is not their place (chiropractors).",
+    "machine": "Machines that try to go 'above and beyond' in their duties but may end up causing problems because of an adverse side effect of their actions."
+  },
+     "expand": {
+    "human": "Humans may often try to misrepresent themselves to others to make themselves appear better socially. However, this can have downstream consequences if every checked for legitimacy.",
+    "organizational": "Organizations have an incentive to hold onto people who perform their role at a very high level while sticking to its scope. Not questioning management and faithfully carrying out duties is desirable.",
+    "experts": "Experts are individuals who are licensed to reflect a body of knowledge onto others. It is important they know where their knowledge ends so that we can be confident about what they are saying.",
+    "machine": "Machines are often really specialized in their tasks. As they are not capable of true learning, straying outside of their domain can have extreme negative consequences."
+},
+{
+  "category": "AT",
+  "name": "Reliability/Consistency",
+  "definition": "Delivering the same quality of behavior over time.",
+  "people": "Individuals who are predictable: they keep promises and maintain routines.",
+  "peopleref": "",
+  "organizational": "Organizations product outputs and working conditions that regular: they do not change wildly and can be depended on to produce the same quality over time.",
+  "organizationalref": "",
+  "professionals": "Professionals who consistently adhere to laws and regulations to produce high level outputs.",
+  "professionalref": "",
+  "machine": "Poducing the same/similar good response when asked multiple times.",
+  "machineref": "",
+  "failureModes": {
+  "human": "An individual may miss deadlines, skip events, and negatively effect their relationships.",
+  "organizational": "The public/leadership loses trust in the company/worker because they cannot be relied on to product a consistent product.",
+  "experts": "The public loses trust and is harmed because they expected a certain level of accuracy.",
+  "machine": "Machines may start spewing harmful information occassionally."
+  },
+   "expand": {
+  "human": "Individuals that maintain schedules and routines can be trusted to do a particular thing on a particular day. They are easy to predict and will generally not encounter unique challenges day-to-day.",
+  "organizational": "Organizations need to maintain a certain level of quality to their work so that they gain brand loyalty with their consistency and reliability of products.",
+  "experts": "Experts rely on having public trust which they gain off of being reliable and consistent. When this trust is lost, the expert's career can suffer.",
+  "machine": "Machines are generally trusted to be correct. So when reliability or consistency is sacrificed, individuals don't realize the mismatch and operate based on the incorrect information."
+},
+{
+  "category": "AT",
+  "name": "Trustworthiness",
+  "definition": "The expectation that an agent will act honestly and responsibly even at a detriment to themselves",
+  "people": "",
+  "peopleref": "",
+  "organizational": "",
+  "organizationalref": "",
+  "professionals": "",
+  "professionalref": "",
+  "machine": "",
+  "machineref": "",
+  "failureModes": {
+  "human": "",
+  "organizational": "",
+  "experts": "",
+  "machine": ""
+  },
+   "expand": {
+  "human": "",
+  "organizational": "",
+  "experts": "",
+  "machine": ""
+},
+{
+  "category": "AT",
+  "name": "Shared Intentionality",
+  "definition": "The ability to align oneself towards a common goal and maintain an understanding of the objective even without explicit details",
+  "people": "",
+  "peopleref": "",
+  "organizational": "",
+  "organizationalref": "",
+  "professionals": "",
+  "professionalref": "",
+  "machine": "",
+  "machineref": "",
+  "failureModes": {
+  "human": "",
+  "organizational": "",
+  "experts": "",
+  "machine": ""
+  },
+   "expand": {
+  "human": "",
+  "organizational": "",
+  "experts": "",
+  "machine": ""
+},
+{
+  "category": "AT",
+  "name": "Considerateness",
+  "definition": "Proactively accounting for the visible and invisible needs of others even when at a detriment to themselves.",
+  "people": "",
+  "peopleref": "",
+  "organizational": "",
+  "organizationalref": "",
+  "professionals": "",
+  "professionalref": "",
+  "machine": "",
+  "machineref": "",
+  "failureModes": {
+  "human": "",
+  "organizational": "",
+  "experts": "",
+  "machine": ""
+  },
+   "expand": {
+  "human": "",
+  "organizational": "",
+  "experts": "",
+  "machine": ""
+}
    
    
 ]
