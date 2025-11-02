@@ -181,7 +181,7 @@ export const categories = [
     "experts": "Experts have the authority to affect many lives as their voices are magnified in society. It is important for an expert to be transparent with the public rather than act like they have every answer. ",
     "machine": "Machines have difficulty admitting uncertainty because it seldom happens in their training data. Instead of reporting information it knows is wrong, it is better for it to defer to humans."
     },
-  }
+  },
   {
   "category": "AT",
   "name": "Role fidelity",
@@ -199,14 +199,14 @@ export const categories = [
     "organizational": "When a worker lies about their capabilities and cannot perform the functions of their job.",
     "experts": "When unlicensed healthcare workers give medical advice when it is not their place (chiropractors).",
     "machine": "Machines that try to go 'above and beyond' in their duties but may end up causing problems because of an adverse side effect of their actions."
-  },
+    },
      "expand": {
     "human": "Humans may often try to misrepresent themselves to others to make themselves appear better socially. However, this can have downstream consequences if every checked for legitimacy.",
     "organizational": "Organizations have an incentive to hold onto people who perform their role at a very high level while sticking to its scope. Not questioning management and faithfully carrying out duties is desirable.",
     "experts": "Experts are individuals who are licensed to reflect a body of knowledge onto others. It is important they know where their knowledge ends so that we can be confident about what they are saying.",
     "machine": "Machines are often really specialized in their tasks. As they are not capable of true learning, straying outside of their domain can have extreme negative consequences."
     },
-  }
+  },
 {
   "category": "AT",
   "name": "Reliability/Consistency",
@@ -231,7 +231,7 @@ export const categories = [
   "experts": "Experts rely on having public trust which they gain off of being reliable and consistent. When this trust is lost, the expert's career can suffer.",
   "machine": "Machines are generally trusted to be correct. So when reliability or consistency is sacrificed, individuals don't realize the mismatch and operate based on the incorrect information."
   },
-}
+},
 {
   "category": "AT",
   "name": "Trustworthiness",
@@ -256,7 +256,7 @@ export const categories = [
   "experts": "",
   "machine": ""
   },
-}
+},
 {
   "category": "AT",
   "name": "Shared Intentionality",
@@ -281,7 +281,7 @@ export const categories = [
   "experts": "",
   "machine": ""
   },
-}
+},
 {
   "category": "AT",
   "name": "Considerateness",
@@ -305,7 +305,7 @@ export const categories = [
   "organizational": "",
   "experts": "",
   "machine": ""
-  }
+  },
 },
    
    
